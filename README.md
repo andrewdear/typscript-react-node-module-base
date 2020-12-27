@@ -1,4 +1,4 @@
-### This is a starting place for creating a npm module
+### This is a starting place for creating a react npm module
 
 Simply create your module with this then build using
 
